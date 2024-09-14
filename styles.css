@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#card {
+  width: 40%;
+  margin: 20px auto;
+  border: 1px solid black;
+}
+
+#in-container {
+  background-color: #6943ff;
+  color: white;
+  height: 250px;
+  padding-top: 30px;
+}
+
+h1 {
+  margin: 0;
+  font-weight: bold;
+}
